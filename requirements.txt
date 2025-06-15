@@ -3,3 +3,6 @@ numpy
 matplotlib
 tqdm
 matplotlib
+scipy
+ipykernel
+
