@@ -3,11 +3,11 @@ medics/
 
 # Ignore data and output folders
 data/ 
- outputs/ 
+outputs/ 
 
 # Python cache files
- __pycache__/ 
+__pycache__/ 
 
 # Neuroimaging data
- *.nii 
- *.nii.gz
+*.nii 
+*.nii.gz
