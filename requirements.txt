@@ -5,4 +5,7 @@ tqdm
 matplotlib
 scipy
 ipykernel
+torch
+torchvision
+Pillow
 

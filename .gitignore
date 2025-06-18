@@ -11,3 +11,8 @@ __pycache__/
 # Neuroimaging data
 *.nii 
 *.nii.gz
+
+notes.txt
+
+src/datasetmask.py
+src/datasetnomask.py
