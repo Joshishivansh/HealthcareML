@@ -8,4 +8,7 @@ ipykernel
 torch
 torchvision
 Pillow
+image-utils
+dominate
+bs4
 
